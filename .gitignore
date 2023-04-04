@@ -1,2 +1,3 @@
 venv/
 *.MP4
+__pycache__/
